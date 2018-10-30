@@ -1,0 +1,6 @@
+translate	dich
+transport	giao thong
+hello	xin chao
+dog	con cho
+cat	con meo
+hi	xin chao

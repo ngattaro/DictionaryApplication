@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="voicerss_tts1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/JavaFxApplication/SDK/voicerss_tts.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
